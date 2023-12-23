@@ -4,8 +4,10 @@ This repo provides a structured way to learn AI/ML via public resources availabl
 
 ## Index
   * Books
-  * Dedicated webesites
+  * Dedicated websites for AI/ML Content
   * Newsletters
   * ML for developers Track
   * ML for Eng/Program Managers/Product Managers Track
+  * Structured ML course for developers via Youtube videos and other sources (via freely available resources)
+  * Youtube Channels to subscribe for great AI content at fingertips
   * 
