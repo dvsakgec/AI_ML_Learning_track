@@ -11,3 +11,6 @@ This repo provides a structured way to learn AI/ML via public resources availabl
   * Structured ML course for developers via Youtube videos and other sources (via freely available resources)
   * Youtube Channels to subscribe for great AI content at fingertips
   * 
+
+
+Learning process reference: [https://medium.com/geekculture/how-to-learn-machine-learning-in-2022-9ef2ea904986](https://medium.com/geekculture/how-to-learn-machine-learning-in-2022-9ef2ea904986)
